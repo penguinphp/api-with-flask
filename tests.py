@@ -1,5 +1,5 @@
 from coverage import coverage
-cov = coverage(omit=['env/*', 'test.py'])
+cov = coverage(omit=['env/*', 'tests.py'])
 cov.start()
 
 import unittest
