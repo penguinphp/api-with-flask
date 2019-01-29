@@ -13,8 +13,10 @@ A fellow student of yours in the Full Stack JavaScript Techdegree has just taken
 >- There are unit tests for all the views, models, and other functions. The tests must cover 50% of code.
 >- The code is clean, readable, and well organized. It complies with most common PEP 8 standards of style.
 
-## Run project
-# Install requirements
+# Run project
+## Install requirements
 >- pip install -r requirements.txt
-# Run Tests (Coverage is automatically shown)
+# Then
+>- app.py runserver
+## Run Tests (Coverage is automatically shown)
 >- tests.py 
