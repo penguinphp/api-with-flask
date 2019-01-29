@@ -16,7 +16,7 @@ A fellow student of yours in the Full Stack JavaScript Techdegree has just taken
 # Run project
 ## Install requirements
 >- pip install -r requirements.txt
-# Then
+## Then
 >- app.py runserver
 ## Run Tests (Coverage is automatically shown)
 >- tests.py 
