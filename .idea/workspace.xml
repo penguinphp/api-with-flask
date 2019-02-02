@@ -236,11 +236,11 @@
     <frame x="1603" y="0" width="1833" height="1400" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24902508" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24902508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.328594" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.328594" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
