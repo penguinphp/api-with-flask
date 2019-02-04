@@ -47,7 +47,7 @@ class BaseTestCase(unittest.TestCase):
         self.assertEqual(User.select().count(), 2)
         self.assertNotEqual(
             User.select().get().password,
-            'password123'
+            'password1234'
         )
 
     def test_create_user_two(self):
