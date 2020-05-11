@@ -1,8 +1,5 @@
 # Todo Api with Flask
 
-## Instructions
-
-A friend of yours in Full Stack JavaScript has just taken the Angular Basics course and has a pretty nice working Angular.js Todo app. They went a little farther and used the ng-resource plugin which allows the application to work automatically using RESTful practices. However, they don’t have experience yet on the server side of things. But you do. Can you help them out? The ability to provide a back-end for a client-side app is a great skill to have.
 
 ## Requirements
 >- Peewee model classes for adding, editing and deleting Todo entries
@@ -13,7 +10,7 @@ A friend of yours in Full Stack JavaScript has just taken the Angular Basics cou
 >- There are unit tests for all the views, models, and other functions. The tests must cover 50% of code.
 >- The code is clean, readable, and well organized. It complies with most common PEP 8 standards of style.
 
-# Run project
+# Run 
 ## Install requirements
 >- pip install -r requirements.txt
 ## Then
